@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav560&show_icons=true&locale=en&layout=compact" alt="agilewebdev92" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agilewebdev92&show_icons=true&locale=en" alt="agilewebdev92" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&locale=en" alt="agilewebdev92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agilewebdev92&" alt="agilewebdev92" /></p>
