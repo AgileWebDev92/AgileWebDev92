@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="agilewebdev92" /></a> </p>
 
 - 💬 Ask me about **javascript, typescript, java, react, angular**
-
-- 📫 How to reach me **jslink29@gmail.com**
 <!--
+- 📫 How to reach me **jslink29@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jason-lee-18874932b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-lee-18874932b" height="30" width="40" /></a>
